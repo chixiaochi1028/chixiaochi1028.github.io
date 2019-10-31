@@ -1,53 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>知到、智慧树！简单几步教你如何自己刷课，如何科学上网！</title>
-    <url>/2019/10/27/%E7%9F%A5%E5%88%B0%E3%80%81%E6%99%BA%E6%85%A7%E6%A0%91%EF%BC%81%E7%AE%80%E5%8D%95%E5%87%A0%E6%AD%A5%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E8%87%AA%E5%B7%B1%E5%88%B7%E8%AF%BE%EF%BC%8C%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%EF%BC%81/</url>
-    <content><![CDATA[<p>大学开学这么久了，大家肯定还有很多网课没有看完，相信大家也是很烦恼；所以我决定尽我自己的微薄之力，给大家分享一下如何靠自己刷完“知到、智慧树”的课程！</p>
-<h2 id="需要使用到的工具"><a href="#需要使用到的工具" class="headerlink" title="需要使用到的工具    "></a>需要使用到的工具    </h2><p><kbd>电脑</kbd> + <kbd><a href="https://www.google.cn/intl/zh-CN/chrome/" target="_blank" rel="noopener">Chrome浏览器</a></kbd> + <kbd><del>校园网</del></kbd> + <kbd><del>足够的电源</del></kbd></p>
-<p>Chrome浏览器即谷歌浏览器，<a href="https://www.google.cn/intl/zh-CN/chrome/" target="_blank" rel="noopener">点我</a>下载</p>
-<h2 id="如何科学上网"><a href="#如何科学上网" class="headerlink" title="如何科学上网"></a>如何科学上网</h2><blockquote>
-<p><strong>何为科学上网？</strong></p>
-<p>科学上网是指通过某种科学的方法绕过上网限制访问，就是我们常说的<code>翻墙</code> </p>
-</blockquote>
-<p>谷歌浏览器之所以强大是因为谷歌浏览器具有丰富的、免费的插件供用户使用，大大提升了用户的使用体验。但是美中不足的是，因为<del>防火墙</del>的限制，我们不能使用这么丰富的插件库。不过！不用担心，我在这里给大家介绍<code>科学上网</code>的方法 ！</p>
-<p>安装好谷歌浏览器之后，需要一个<code>谷歌访问助手</code>这样的插件，访问下面的百度网盘链接，下载到自己的电脑（注意：放在一个显而易见的文件夹，并标注好<del>这是个啥东西</del>）</p>
-<pre><code>访问：链接：https://pan.baidu.com/s/1ZQiAkzd7UC16ofr0Jri7zA 
-     提取码：dlss </code></pre><p>这个文件是个zip压缩文件，看官需要解压一下，放在你事先创建好的文件夹，之后打开<code>Chorme</code>，点击右上角的<code>设置图标</code> –&gt; <code>更多工具</code> –&gt; <code>扩展程序</code></p>
-<p>打开之后应该是这个亚子的（第一次安装<code>科学上网</code>的童靴，可能没有如图这么多插件）：</p>
-<p><img src="https://i.loli.net/2019/10/27/9Rq8Yj26ECMVJDy.png" alt="1.jpg"></p>
-<p>然后点击右上角的<code>开发者模式</code>点击打开之后，在界面上方会出现如图所示的三个选项：</p>
-<p><img src="https://i.loli.net/2019/10/27/ewAnQrWiFYGbtMI.png" alt="2WS_JY@MX_IN6_LSKF7EUHL.png"></p>
-<p>然后选择第一个<code>加载已解压的扩展程序</code>，然后选中你刚刚解压的那个文件夹点确定，然后确保出现以下红框图标就可以了</p>
-<p><img src="https://i.loli.net/2019/10/27/lz8CLY6WQrv2d4P.png" alt="5UG~0~3__@YSNHW@Q67_I_Q.png"></p>
-<p>这时候<code>谷歌访问助手</code>就已经安装成功了，此时此刻，你可以随意浏览谷歌系的一些网页，比如：<code>谷歌地球</code>（看遍世界各个角落）、<code>谷歌学术</code>（这里有很多大牛教授等写的论文）、<code>谷歌搜索</code>（此时此刻你可以使用谷歌搜索来搜索你想要的东西了~）、<code>维基百科</code>（一个类似百度百科的网站）等等等等……不再一一介绍。</p>
-<h2 id="如何刷课！！！！"><a href="#如何刷课！！！！" class="headerlink" title="如何刷课！！！！"></a>如何刷课！！！！</h2><p>言归正传，接下来是如何刷课的教程，刷课需要借助一些人写的<code>脚本</code>，这里给大家推荐一款插件<code>Tampermonkey</code>，这个插件汇集了大量的脚本，用户只需要找到自己想要的脚本然后点击安装就可以了！</p>
-<p><code>Tampermonkey</code>插件在浏览器页面的左上角<code>应用</code>里面搜索下载，过程简单不再介绍。</p>
-<p>安装好<code>Tampermonkey</code>插件之后，给大家介绍个“脚本大全网站”</p>
-<pre><code>https://greasyfork.org/zh-CN/scripts</code></pre><p>前往这个网站，在搜索的地方输入<code>智慧树</code></p>
-<p><img src="https://i.loli.net/2019/10/27/wKPgW3brh9DjsOc.png" alt="CO0RM9XQ7WKMLSPM@_AD5_C.png"></p>
-<p>点击搜索，会出现以下关于很多<code>智慧树</code>的脚本</p>
-<p>![92X<del>XM</del>CI_6_G8<del>2W_</del>`BM3.png](<a href="https://i.loli.net/2019/10/27/OXgtjn34keDqo9Y.png" target="_blank" rel="noopener">https://i.loli.net/2019/10/27/OXgtjn34keDqo9Y.png</a>)</p>
-<p>这里我推荐大家用第一个<code>刷课</code>脚本，点击这个标题进去之后</p>
-<p><img src="https://i.loli.net/2019/10/27/nDtjLAbsMYHpZqQ.png" alt="S2GGWA_S~2_JXB_2_@N~6RY.png"></p>
-<p>点击这个<code>安装此脚本</code>之后：</p>
-<p><img src="https://i.loli.net/2019/10/27/gDsMq47J2YhIdCP.png" alt="B7FYJY_Y_PK3OHW1_6Z@8RS.png"></p>
-<p>点击<code>安装</code>………………然后就完事儿了！！</p>
-<p>你这时候再点开你的<code>知到</code>，<code>智慧树</code>就直接是1.5倍速播放，无弹窗题目了！！</p>
-<hr>
-<p><strong>就是这么简单！</strong></p>
-<p><strong>还有很多超级好玩、超级方便的插件等着你们发现哦！</strong></p>
-]]></content>
-      <categories>
-        <category>科学上网</category>
-      </categories>
-      <tags>
-        <tag>科学上网</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
-    <url>/2019/10/27/hello-world/</url>
+    <url>/2019/10/31/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
